@@ -1,0 +1,5 @@
+rootProject.name='ARWorkshop'
+include ':andy'
+include ':featurepoints'
+include ':my_featurepoints'
+include ':my_andy'
