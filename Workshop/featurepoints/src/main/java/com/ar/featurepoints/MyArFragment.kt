@@ -84,7 +84,7 @@ class MyArFragment : ArFragment() {
                         ?.filter {
                             it.confidence > 0.6
                         }
-                        ?.take(20)?.forEach {
+                        ?.take(40)?.forEach {
                             val node = Node()
                             node.renderable = ShapeFactory.makeSphere(
                                 0.005f,

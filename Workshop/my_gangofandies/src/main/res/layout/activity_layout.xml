@@ -6,9 +6,10 @@
     android:layout_height="match_parent"
     tools:context=".MyArActivity">
 
+
     <fragment
         android:id="@+id/arFragment"
-        class="com.ar.my_andy.MyArFragment"
+        class="com.ar.my_gandofandies.MyArFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

@@ -13,8 +13,10 @@
             <option value="$PROJECT_DIR$/andy" />
             <option value="$PROJECT_DIR$/augmented_image" />
             <option value="$PROJECT_DIR$/featurepoints" />
+            <option value="$PROJECT_DIR$/gangofandies" />
             <option value="$PROJECT_DIR$/my_andy" />
             <option value="$PROJECT_DIR$/my_featurepoints" />
+            <option value="$PROJECT_DIR$/my_gangofandies" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
