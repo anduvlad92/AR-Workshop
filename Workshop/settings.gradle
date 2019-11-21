@@ -1,5 +1,5 @@
 rootProject.name='ARWorkshop'
-include ':andy'
+include ':andy', ':augmented_image'
 include ':featurepoints'
 include ':my_featurepoints'
 include ':my_andy'

@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/andy" />
+            <option value="$PROJECT_DIR$/augmented_image" />
             <option value="$PROJECT_DIR$/featurepoints" />
             <option value="$PROJECT_DIR$/my_andy" />
             <option value="$PROJECT_DIR$/my_featurepoints" />
